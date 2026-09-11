@@ -1,3 +1,12 @@
+/**
+ * data/pericias.js
+ * ---------------------------------------------------------------
+ * Estrutura de dados dos tipos de perícia oferecidos pelo NTCF.
+ * Cada objeto vira um card renderizado dinamicamente pelo main.js.
+ * Para adicionar/remover uma perícia, edite apenas este arquivo.
+ * ---------------------------------------------------------------
+ */
+
 const PERICIAS_DATA = [
   {
     codigo: "EVD-01",
@@ -34,11 +43,5 @@ const PERICIAS_DATA = [
     icone: "balanca",
     titulo: "Perícia Contábil",
     descricao: "Análise de documentos contábeis e financeiros para apuração de fatos."
-  },
-  {
-    codigo: "EVD-07",
-    icone: "escudo",
-    titulo: "Perícia Médico-Legal",
-    descricao: "Análise técnico-científica de aspectos médicos relacionados a questões de interesse pericial e judicial."
   }
 ];

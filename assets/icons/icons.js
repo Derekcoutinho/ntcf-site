@@ -124,5 +124,4 @@ const ICONS = {
     <path d="M60 33v38" stroke="currentColor" stroke-width="1" opacity="0.5"/>
     <path d="M24 30c8 6 8 12 0 18M96 30c-8 6-8 12 0 18M24 46c8 6 8 12 0 18M96 46c-8 6-8 12 0 18" stroke="currentColor" stroke-width="1.1" opacity="0.55"/>
   </svg>`
-  
 };
